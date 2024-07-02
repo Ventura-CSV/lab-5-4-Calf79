@@ -7,7 +7,8 @@ def minmax(numbers):
     Code Your Program here
     ########################################
     """
-
+    minval=min(numbers)
+    maxval=max(numbers)
     ########################################
     # Do not delete the return statement
     ########################################
